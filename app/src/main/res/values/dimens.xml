@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+
+    <dimen name="default_activity_margin">8dp</dimen>
+    <integer name="emsFromTo">8</integer>
+    <dimen name="inputMinWidth">16dp</dimen>
+
+    <dimen name="stroke_border">5dp</dimen>
+</resources>

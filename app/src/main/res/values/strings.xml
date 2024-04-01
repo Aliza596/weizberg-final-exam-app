@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Random Number Generator</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="fab_button">Generate Random Number</string>
+    <string name="banner_text">Please enter in the numbers: </string>
+
+
+    <string name="from_hint">From</string>
+    <string name="to_hint">To</string>
+    <string name="textView">0</string>
+
+    <string name="show_history">Show History</string>
+    <string name="history">History</string>
+    <string name="clear_history">Clear History</string>
+    <string name="about">About</string>
+
+    <string name="about_text">
+        Alison Weizberg MCOO 255 Fall 2023 Final Exam: Random Number Generator App
+    </string>
+
+    <string name="both_error">Please fill in both fields first. </string>
+
+</resources>
